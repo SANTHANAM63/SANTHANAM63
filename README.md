@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hello, I'm **Santhanam** 👋</h1>
+<h1 align="center">Hello, I'm SANTHANAM M 👋</h1>
 
 <p align="center">
   <a href="https://github.com/SANTHANAM63">
